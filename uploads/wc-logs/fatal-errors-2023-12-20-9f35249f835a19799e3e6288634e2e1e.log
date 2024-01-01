@@ -1,0 +1,23 @@
+2023-12-20T06:29:21+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\API\OnboardingPlugins::install_plugin() in /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/InstallJPAndWCSPlugins.php:120
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/InstallJPAndWCSPlugins.php(108): Automattic\WooCommerce\Internal\Admin\Notes\InstallJPAndWCSPlugins->install_and_activate_plugin('jetpack')
+#1 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Notes\InstallJPAndWCSPlugins->install_jp_and_wcs_plugins(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#2 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-content/plugins/woocommerce/src/Admin/Notes/Notes.php(367): do_action('woocommerce_not...', Object(Automattic\WooCommerce\Admin\Notes\Note))
+#5 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-content/plugins/woocommerce/src/Admin/API/NoteActions.php(82): Automattic\WooCommerce\Admin\Notes\Notes::trigger_note_action(Object(Automattic\WooCommerce\Admin\Notes\Note), Object(stdClass))
+#6 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/rest-api/class-wp-rest-server.php(1193): Automattic\WooCommerce\Admin\API\NoteActions->trigger_note_action(Object(WP_REST_Request))
+#7 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-analytics/a...', Array, NULL)
+#8 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#9 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wc-analytics/a...')
+#10 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#11 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/class-wp.php(813): WP->parse_request('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-includes/functions.php(1336): WP->main('')
+#16 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-blog-header.php(16): wp()
+#17 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/index.php(17): require('/Applications/X...')
+#18 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/ecommerce/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/InstallJPAndWCSPlugins.php on line 120
+
