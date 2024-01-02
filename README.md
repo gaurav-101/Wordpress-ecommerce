@@ -1,16 +1,25 @@
 # Wordpress-ecommerce
 
-![Screenshot 2024-01-01 at 10 24 59 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/26bf9eb2-316a-439c-bcbf-ffedc1369731)
-![Screenshot 2024-01-01 at 10 24 42 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/c5232c35-bc54-4cdc-a866-e1c3793cb8ee)
-![Screenshot 2024-01-01 at 10 24 30 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/5f1ddf80-8282-4629-be76-d4b41f994045)
-![Screenshot 2024-01-01 at 10 24 11 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/703ddebf-d71b-47f5-bd15-c9154c2b480d)
-![Screenshot 2024-01-01 at 10 24 02 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/f63cc1c3-152b-48d6-9130-3b122bbd4288)
-![Screenshot 2024-01-01 at 10 23 55 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/2d088574-384c-4fbf-86f8-923d2500c69b)
-![Screenshot 2024-01-01 at 10 23 36 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/d62a8867-7ff6-4192-838c-4ee543a4cfc6)
-![Screenshot 2024-01-01 at 10 23 29 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/38e066cc-e35d-4b2f-ac92-ad8cc1e57bae)
-![Screenshot 2024-01-01 at 10 23 22 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/581bddaa-b788-4446-a4c6-eb4d10f37467)
-![Screenshot 2024-01-01 at 10 23 07 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/8248cd48-89ed-49cd-8699-d94154c7007d)
-![Screenshot 2024-01-01 at 10 22 59 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/01810388-9571-4af8-912a-ed723070774b)
-![Screenshot 2024-01-01 at 10 22 52 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/020e4e7f-58f0-457a-9a5a-5ecff6122ac2)
-![Screenshot 2024-01-01 at 10 22 43 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/16b08656-d411-470c-abcc-fcf662c3ce8e)
-![Screenshot 2024-01-01 at 10 22 25 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/6f58a982-4fb7-4bd3-a137-2fac5a8489a0)
+## Home Page
+![Screenshot 2024-01-01 at 10 22 25 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/61781471-e5c8-4a28-bb7b-cd3927544cf4)
+![Screenshot 2024-01-01 at 10 22 43 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/e6920628-4aec-4887-924c-28e990b8cedd)
+![Screenshot 2024-01-01 at 10 22 52 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/e46a978e-38be-4a51-a95d-a42c90d46b6c)
+![Screenshot 2024-01-01 at 10 22 59 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/497ddec1-7ee7-48b9-bdd4-7c99ee937203)
+![Screenshot 2024-01-01 at 10 23 07 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/a791571a-4aa7-4045-8629-55d0486a6e0e)
+
+## About Page
+![Screenshot 2024-01-01 at 10 23 22 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/476b981a-dc21-41f3-8734-07aaa2cbc86a)
+![Screenshot 2024-01-01 at 10 23 29 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/d686b329-7a57-4490-b219-a0a4ef7c53af)
+![Screenshot 2024-01-01 at 10 23 36 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/3fabc4c9-7122-4e04-b9b6-17333463b430)
+
+## Blog Page
+![Screenshot 2024-01-01 at 10 23 55 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/b4ef6360-d8ba-4b78-baf8-152ce993d9af)
+![Screenshot 2024-01-01 at 10 24 02 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/c19a8e76-c7ed-4706-af65-0196fa67cb4d)
+![Screenshot 2024-01-01 at 10 24 11 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/0af71931-8ad1-4ab3-8cbd-ffc574e298c8)
+
+## Cart Page
+![Screenshot 2024-01-01 at 10 24 30 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/437814b8-f363-4bd7-8fdb-0d21945f5c9a)
+
+## Checkout Page
+![Screenshot 2024-01-01 at 10 24 42 PM](https://github.com/gaurav-101/Wordpress-ecommerce/assets/82750742/1de4936c-3a62-46da-94a8-e4bffdede340)
+
